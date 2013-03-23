@@ -27,6 +27,8 @@ Sorry for the german source-comments. This was done for the professor and could 
 
 #### Impressions:
 
-![ScreenShot1](https://raw.github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks1.png)
-![ScreenShot2](https://raw.github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks2.png)
-![ScreenShot3](https://raw.github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks3.png)
+![ScreenShot1](https://github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks1.png)
+
+![ScreenShot2](https://github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks2.png)
+
+![ScreenShot3](https://github.com/pjaehrling/Blocks_OpenGLGame/blob/master/screenshots/blocks3.png)
